@@ -1,0 +1,10 @@
+git add *
+git commit -m "Message"
+git push
+git checkout
+
+
+Git Merge from one branch to another:
+git checkout destinationBranch
+git checkout sourceBranch FileName
+
