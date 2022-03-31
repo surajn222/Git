@@ -1,0 +1,1 @@
+Super simple implementation of searching for terms in Git projects

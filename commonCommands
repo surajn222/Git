@@ -8,3 +8,12 @@ Git Merge from one branch to another:
 git checkout destinationBranch
 git checkout sourceBranch FileName
 
+
+
+git log --oneline
+git rebase -i (COMMITID of commit you want to squash upto)+1
+
+
+
+git rm -r -f -cached .
+git add .
